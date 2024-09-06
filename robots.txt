@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kcuifl.github.io/mkC/sitemap.mkC.gz
